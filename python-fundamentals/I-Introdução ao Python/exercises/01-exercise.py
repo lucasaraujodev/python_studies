@@ -22,7 +22,6 @@ print(f"Antecessor do número: {number -1} | Sucessor do número: {number +1}")
 
 '''
 
-
 # RESOLUÇÃO 02
 '''
 print("Type 4 numbers below:")
