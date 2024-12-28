@@ -1,0 +1,11 @@
+Nessa aula vamos aprender a utilizar o módulo HttpServer no Python.
+
+Esse módulo é muito legal, pois podemos compartilhar arquivos (imagens, código-fonte, músicas, vídeos, etc) entre diferentes máquinas, por meio de um servidor Http.
+
+No meu caso, farei uma simulação entre a comunicação de arquivos entre minha máquina física e uma máquina virtual.
+
+Você poderia fazer o teste entre a sua máquina física e um celular, ou um outro computador que esteja conectado na mesma rede.
+
+Para iniciar o servidor http, digite o comando no terminal: python -m http.server
+
+OBS: para saber o IP da sua máquina, digite o comando no termnal: ipconfig
